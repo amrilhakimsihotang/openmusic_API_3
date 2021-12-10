@@ -35,5 +35,7 @@ Tools:<br>
 9. Penerapan Server Side Cache untuk playlist
 
 <br>
-Uji di postman dengan OpenMusic API V3 Test. Tidak ada kendala dan mendapat nilai bintang 4.
+Uji di postman dengan OpenMusic API V3 Test. Tidak ada kendala 
+
+![nilai](https://user-images.githubusercontent.com/68908992/145613565-bbbcb499-808c-47c0-a3c8-b9d5c4762b17.png)
 
